@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF2F9A9E</color>
+    <color name="colorPrimaryDark">#FF2F9A9E</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="navBar">#FF4CA2A5</color>
+    <color name="drawer_bg">#FF4CA2A5</color>
+</resources>

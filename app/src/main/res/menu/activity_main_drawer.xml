@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:title="Home" />
+        <item
+            android:id="@+id/mission"
+            android:title="Our Mission" />
+        <item
+            android:id="@+id/about"
+            android:title="About Tofoo" />
+        <item
+            android:id="@+id/blog"
+            android:title="Blog" />
+        <item
+            android:id="@+id/yourTofoo"
+            android:title="Your Tofoo" />
+        <item
+            android:id="@+id/products"
+            android:title="Products" />
+        <item
+            android:id="@+id/recipes"
+            android:title="Recipes" />
+        <item
+            android:id="@+id/videos"
+            android:title="Videos" />
+        <item
+            android:id="@+id/legends"
+            android:title="Tofoo Legends" />
+        <item
+            android:id="@+id/stockists"
+            android:title="Stockists" />
+        <item
+            android:id="@+id/contact"
+            android:title="Contact Us" />
+
+    </group>
+
+    <group android:menuCategory="container">
+        <item android:title="Social Media" />
+        <group >
+            <item android:id="@+id/facebook"
+                />
+        </group>
+    </group>
+
+
+
+</menu>
